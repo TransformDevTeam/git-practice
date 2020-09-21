@@ -6,11 +6,11 @@ Please clone this remote repository and add a text file with your name on it on 
 
 Task 2:
 
-Create a pull request for approval. If approved by other team member, merge changes to the master branch. (Next time, we will change the git repository settings so that you cannot merge into the master branch without having atleast 1 team member approving the pull request)
+Create a pull request for approval. If approved by other team member, merge changes to the master branch. (Next time, we will change the git repository settings so that you cannot merge into the master branch without having atleast 1 team member approving the pull request, same with the develop branch)
 
 Task 3: 
 
-Review, comment, approve, and merge pull requests to merge branches!
+Review, comment, approve, and merge pull requests to merge branches to master!
 
 Task 4: 
 
