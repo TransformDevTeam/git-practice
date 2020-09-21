@@ -1,4 +1,4 @@
-Hi Transformers! This repository is meant for us to practice our git skills before we develop our app. 
+Hi Transformers! This repository is meant for us to practice our git skills before we develop our app. If youre comfortable doing so, please do the following tasks:
 
 Task 1:
 
