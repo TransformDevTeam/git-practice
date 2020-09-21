@@ -6,11 +6,11 @@ Please pull this remote repository and add a text file with your name in it on y
 
 Task 2:
 
-Create a pull request to merge changes to the master branch. 
+Create a pull request for approval. If approved by other team member, merge changes to the master branch. (Next time, we will change the git repository settings so that you cannot merge into the master branch without having atleast 1 team member approving the pull request)
 
 Task 3: 
 
-Review, comment, and approve pull requests to merge branches!
+Review, comment, approve, and merge pull requests to merge branches!
 
 Task 4: 
 
