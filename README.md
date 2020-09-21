@@ -15,3 +15,7 @@ Review, comment, and approve pull requests to merge branches!
 Task 4: 
 
 Modify a text file your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the develop branch. Ask for another pull request.
+
+Task 5: 
+
+Create a new branch and make more changes using this branch. Note: For our development Sprints, each team member must use their own branch to avoid confusion and errors.
