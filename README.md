@@ -18,7 +18,9 @@ Modify a text file your team member created. For instance, you can add your name
 
 Task 5: 
 
-Create a new branch and make more changes using this branch. Note: For our development sprints, each team member must use their own branch to avoid confusion and commit errors.
+Create a new branch and make more changes using this branch. 
+
+Note: For our development sprints, each team member must use their own branch to avoid bugs and commit errors. Team members should not work or push directly to the develop and master branch. Instead, each team member can commit on their own branch and process a pull request to merge on the develop branch from your own branch. Then, once the version on the develop branch have been tested and it works, then we can approve the develop branch to be merged into the master branch.
 
 Reminder: Please don't forget to pull from the master branch in order to get the latest version of the code! Thanks :)
 -Pam
