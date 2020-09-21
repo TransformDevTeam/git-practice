@@ -2,7 +2,7 @@ Hi Transformers! This repository is meant for us to practice our git skills befo
 
 Task 1:
 
-Please clone this remote repository and add a text file with your name on it on your own local repository. Then, commit and push your changes into the remote repository on the develop1 branch! (If someone already committed on the develop1 branch, use develop2 branch)
+Please clone this remote repository and add a text file with your name on it on your own local repository. Then, commit and push your changes into the remote repository on the test1 branch! (If someone already committed on the test1 branch, use test2 branch)
 
 Task 2:
 
@@ -14,7 +14,7 @@ Review, comment, approve, and merge pull requests to merge branches to master!
 
 Task 4: 
 
-Modify a text file that your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the develop1/develop2 branch. Ask for another pull request to merge to the master branch.
+Modify a text file that your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the test1/test2 branch. Ask for another pull request to merge to the master branch.
 
 
 NOTE: For our development sprints, each team member must push to their own branch to avoid bugs and commit errors. Team members should not work or push directly to the develop and master branch. Instead, each team member can commit to their own branch and process a pull request to merge on the develop branch. Then, once the develop branch has been tested and it works, then we can approve the develop branch to be merged into the master branch.
