@@ -1,19 +1,17 @@
-#git-practice
-
-Hi Transformers! This repository is meant for us to practice our git skills before we develop our app. 
+Hi Transformers! This repository is meant for us to practice our git skills before we develop our app. If youre comfortable doing so, please do the following tasks:
 
 Task 1:
 
-Please pull this remote repository and add a text file with your name in it. Then, commit, and push your changes into the repository on the develop branch!
+Please pull this remote repository and add a text file with your name in it on your own local repository. Then, commit and push your changes into the remote repository on the develop branch!
 
 Task 2:
 
-Create a pull request to merge changes. 
+Create a pull request to merge changes to the master branch. 
 
 Task 3: 
 
-Review, comment, and approve pull requests!
+Review, comment, and approve pull requests to merge branches!
 
 Task 4: 
 
-Modify a text file your team member created. Add your name in the text file. After doing so, commit, and push on the develop branch. Ask for another pull request.
+Modify a text file your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the develop branch. Ask for another pull request.
