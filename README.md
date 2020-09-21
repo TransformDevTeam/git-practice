@@ -14,7 +14,7 @@ Review, comment, approve, and merge pull requests to merge branches to master!
 
 Task 4: 
 
-Modify a text file your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the develop branch. Ask for another pull request.
+Modify a text file your team member created. For instance, you can add your name in the text file they have created. After doing so, commit and push your changes on the develop/develop2 branch. Ask for another pull request to merge to the master branch.
 
 Task 5: 
 
