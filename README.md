@@ -2,7 +2,7 @@ Hi Transformers! This repository is meant for us to practice our git skills befo
 
 Task 1:
 
-Please pull this remote repository and add a text file with your name on it on your own local repository. Then, commit and push your changes into the remote repository on the develop branch! (If someone already committed on the develop branch, use develop2 branch)
+Please clone this remote repository and add a text file with your name on it on your own local repository. Then, commit and push your changes into the remote repository on the develop branch! (If someone already committed on the develop branch, use develop2 branch)
 
 Task 2:
 
