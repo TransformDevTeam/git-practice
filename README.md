@@ -28,5 +28,9 @@ Task 6:
 
 Process a pull request for the develop branch to merge into the master branch.
 
+Task 7:
+
+Delete branches that have been merged. 
+
 Reminder: Please don't forget to pull from the master branch in order to get the latest version of the code! Thanks :)
 -Pam
