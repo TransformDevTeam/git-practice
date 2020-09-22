@@ -1,3 +1,4 @@
 Hey guys! I hope ya'll are doing great. This is my text file. If you have any questions or need help with git, please reach out to me or other team members! Thanks and good luck!
 
 Add your name here: (this is for task 4)
+Roger Gaulke
